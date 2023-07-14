@@ -6,12 +6,10 @@ This project uses Flutter and firebase cloud firestore.
 ![food_app_home](https://github.com/ViditaShetty/Food-App-in-Flutter/assets/96463276/5451f444-2bc9-41ff-af5c-e89bcece75ea)
 ## Home Page
 ![food_app_home2](https://github.com/ViditaShetty/Food-App-in-Flutter/assets/96463276/4d1a40cb-e69f-4901-be6c-dc72e5643eec)
-## Add to Cart On Tap
-![food_app_add_on_tap](https://github.com/ViditaShetty/Food-App-in-Flutter/assets/96463276/f73eeb62-2a3f-4311-9d0e-4bebe8d726d3)
-## Add Item Form
-![food_app_cart](https://github.com/ViditaShetty/Food-App-in-Flutter/assets/96463276/81c1ede9-0495-437a-9013-fc8f54832c4d)
 ## Categories
 ![food_app_add_item](https://github.com/ViditaShetty/Food-App-in-Flutter/assets/96463276/30107abc-6d04-4eab-a7ab-ba8e03b3536d)
+## Add Item Form
+![food_app_cart](https://github.com/ViditaShetty/Food-App-in-Flutter/assets/96463276/81c1ede9-0495-437a-9013-fc8f54832c4d)
 ## Success screen
 ![food_app_success](https://github.com/ViditaShetty/Food-App-in-Flutter/assets/96463276/2a96183c-0398-4523-8189-d61fdbc87f19)
 ## Register Screen
